@@ -1,6 +1,6 @@
 # pyexec-worker
 
-Local execution agent for [PyExecutor](https://github.com/your-org/pyexec).
+Local execution agent for [PyExecutor](https://github.com/pyexechq/).
 
 Allows workflow steps to run on-premises instead of (or alongside) the cloud worker.
 
